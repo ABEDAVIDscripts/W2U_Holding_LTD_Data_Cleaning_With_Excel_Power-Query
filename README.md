@@ -1,9 +1,9 @@
-# W2U Holding LTD Data Cleaning Using MS Excel Power-Query
+# W2U Group Data Cleaning Using MS Excel Power-Query
 
 <br>
 
 ### Overview
-This project involved cleaning and transforming a sales text format dataset for W2U Holding LTD using Power Query in Microsoft Excel. The raw dataset contained inconsistencies, blank rows, unnecessary columns, and formatting issues that were addressed systematically.
+This project involved cleaning and transforming a sales text format file for W2U Group using Power Query in Microsoft Excel. The raw dataset contained inconsistencies, blank rows, unnecessary columns, and formatting issues that were addressed systematically.
 
 The cleaned dataset is now structured and ready for further analysis or reporting.
 
