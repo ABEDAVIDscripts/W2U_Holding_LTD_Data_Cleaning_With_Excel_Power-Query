@@ -1,9 +1,9 @@
-# W2U Group _ Data Cleaning Using MS Excel Power-Query
+# W2U Groups _ Data Cleaning Using MS Excel Power-Query
 
 <br>
 
 ### Overview
-This project involved cleaning and transforming a sales text format file for W2U Group using Power Query in Microsoft Excel. The raw dataset contained inconsistencies, blank rows, unnecessary columns, and formatting issues that were addressed systematically.
+This project involved cleaning and transforming a sales text format file for W2U Groups company using Power Query in Microsoft Excel. The raw dataset contained inconsistencies, blank rows, unnecessary columns, and formatting issues that were addressed systematically.
 
 The cleaned dataset is now structured and ready for further analysis or reporting.
 
@@ -19,7 +19,7 @@ To utilize Power Query to:
 <br>
   
 ### Dataset
-- Source: [unclean text file](https://drive.google.com/file/d/1OvxqjlIN0tCLduibVk2YEs5vnPAGAQPc/view?usp=sharing) contains unclean text file from W2U Group.
+- Source: [unclean text file](https://drive.google.com/file/d/1OvxqjlIN0tCLduibVk2YEs5vnPAGAQPc/view?usp=sharing) contains unclean text file from W2U Groups.
 - Clean Data: [W2U Clean Dataset](https://docs.google.com/spreadsheets/d/15sPaC9LjVSF1BoKvpwemtXbiqDOKsnPm/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 <BR>
