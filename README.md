@@ -19,8 +19,8 @@ To utilize Power Query to:
 <br>
   
 ### Dataset
-- Source: [unclean text file](https://drive.google.com/file/d/1OvxqjlIN0tCLduibVk2YEs5vnPAGAQPc/view?usp=sharing) contains unclean text file from W2U Groups.
-- Clean Data: [W2U Clean Dataset](https://docs.google.com/spreadsheets/d/15sPaC9LjVSF1BoKvpwemtXbiqDOKsnPm/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
+- Source: [unclean text file](https://mega.nz/file/Z5JkwbBR#we5leMpz7gRASRVTJghDlVOaAbnyk6qzf333AYCoNT0) contains unclean text file from W2U Groups.
+- Clean Data: [W2U Clean Dataset](https://mega.nz/file/gohiGIKL#Dk4fBHCmixMSHRk9u_M_jQg4GIo3-QW6GnfOt7sEwX8)
 
 <BR>
 
