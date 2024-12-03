@@ -19,7 +19,7 @@ To utilize Power Query to:
 <br>
   
 ### Dataset
-- Source: [Unclean File](https://drive.google.com/file/d/1OvxqjlIN0tCLduibVk2YEs5vnPAGAQPc/view?usp=sharing) Contains unclean text file from W2U Group.
+- Source: [unclean text file](https://drive.google.com/file/d/1OvxqjlIN0tCLduibVk2YEs5vnPAGAQPc/view?usp=sharing) contains unclean text file from W2U Group.
 - Clean Data: [W2U Clean Dataset](https://docs.google.com/spreadsheets/d/15sPaC9LjVSF1BoKvpwemtXbiqDOKsnPm/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 <BR>
@@ -61,3 +61,6 @@ To utilize Power Query to:
 ### Tools Used
 - Power Query: For data transformation and cleaning.
 - Microsoft Excel: To handle the raw and cleaned datasets.
+- GitHub: For documentation
+
+<br>
